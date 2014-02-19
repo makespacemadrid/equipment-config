@@ -9,6 +9,6 @@ Cada equipo tendrá una carpeta específica con los ficheros de configuración corr
 ## Aviso
 Estos ficheros se han creado para máquinas concretas, con sus correspondientes particularidades. Pensamos que compartiendo la configuración otra gente podrá aprender de los cambios y mejoras realizadas, pero... Úsalos con ojo. Es posible que no funcionen en tu equipo o quizás empiecen a hacer cosas raras. Como no podemos probar estos ficheros en más equipos, se liberan AS-IS con la mejor de nuestras intenciones.
 
-## Colofón
-  - Creditos -- Estos ficheros han sido creados por los miembros de Makespace a partir de los ficheros de configuración original de cada uno de los equipos. Queremos agradecer a todos los desarrolladores de cada una de los firmware su trabajo para que todo este sea posible.
+## Créditos
+Estos ficheros han sido creados por los miembros de Makespace a partir de los ficheros de configuración original de cada uno de los equipos. Queremos agradecer a todos los desarrolladores de cada uno de los firmware su trabajo para que todo esto sea posible.
 
